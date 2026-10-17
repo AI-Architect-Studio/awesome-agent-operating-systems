@@ -49,6 +49,8 @@ Agent runtimes provide the execution loop, tool calling, and context management 
 
 - **[Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS)** - Apache-2.0 local-first agent operation environment for portable agent and team packages, multi-agent orchestration, A2A Agent Cards, MCP integration, and coding-host adapters. *Checked: 2026-08-30*
 
+- **[YYLO](https://github.com/yylo-dev/yylo)** - MIT command-line orchestrator for coding agents: repeatable workflows, typed task, validation, merge, and release-readiness boundaries, with receipt-backed repository changes across agent worktrees. *Checked: 2026-10-17*
+
 - **[Replit Agent 4](https://replit.com/products/agent)** - Multi-artifact agent that builds web apps, mobile apps, and slides with parallel task execution and design canvas. Integrated testing via reflection loop. *Checked: 2026-08-16*
 
 - **[Vercel Eve](https://vercel.com/eve)** - Framework for durable backend agents on Vercel. File-based agent authoring with instructions.md, tools/, and skills/ directories. *Checked: 2026-08-16*

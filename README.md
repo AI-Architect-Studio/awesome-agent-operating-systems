@@ -151,6 +151,8 @@ Tools and resources for building agents.
 
 - **[AgentPlaybooks](https://github.com/matebenyovszky/agentplaybooks)** - Independent agent storage: one place for persona, instructions, skills, MCP, memory, and secrets vault under your control — portable across hosts. MIT. *Checked: 2026-09-29*
 
+- **[Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API)** - Self-hosted gateway for calling existing local coding agents from OpenAI, Anthropic, or Gemini SDKs, with scoped keys and operator approvals. Apache-2.0. *Checked: 2026-11-22*
+
 ---
 
 ## Contributing
